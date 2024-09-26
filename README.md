@@ -1,7 +1,8 @@
 # Repositório
 
 ## conhecimentos envolvidos
-
+.
+.
 -Git
 -Github
 -SSH
